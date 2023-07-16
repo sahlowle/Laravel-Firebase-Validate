@@ -1,2 +1,3 @@
 # Laravel-Firebase-Validate
- Validate OTP Code Using Laravel
+ FireBase Validate OTP Code Using Laravel
+ firebase otp verification laravel
